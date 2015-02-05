@@ -1,3 +1,13 @@
+PosteBit.it:
+  countries: [it]
+  location: [it]
+  icon: http://www.postebit.it/favicon.ico
+  label: PosteBit
+  url: http://www.postebit.it/
+  content: |
+    <p>Comprare bitcoin con ricarica postepay in euro contanti dalle poste, sisal, ITB o dal web. Acquistare con postebit è facile, veloce e sicuro!</p>
+  coins: [btc]
+
 cointrader:
   label: Cointrader.net
   icon: https://www.cointrader.net/favicon.ico.png
